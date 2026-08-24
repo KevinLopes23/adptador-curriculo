@@ -1,57 +1,35 @@
-Estamos em busca de um(a) Desenvolvedor(a) Fullstack Pleno com foco em Inteligência Artificial para atuar no time de tecnologia. Você vai construir e evoluir plataformas web e soluções inteligentes que otimizam a logística e a experiência do cliente.
+Sobre a vaga
+Sobre a vaga
+
+Na CUB, estamos transformando a gestão de recebíveis e o pós-venda do setor imobiliário. Nossa missão é converter processos manuais e burocráticos em fluxos automatizados, inteligentes e data-driven. Se você busca resolver problemas complexos de escalabilidade e integridade de dados do sistema imobiliário, seu lugar é aqui.
+
+Como Engenheiro Sênior, você terá um papel fundamental na evolução da nossa arquitetura. Esperamos que você não apenas implemente funcionalidades, mas que desenhe soluções resilientes para lidar com grandes volumes de transações e automações que impactam diretamente o fluxo de caixa de nossos clientes.
 
 
 
-Responsabilidades
+O que você vai fazer no dia a dia
 
-- Desenvolver e manter aplicações fullstack (frontend, backend e banco de dados) com tecnologias modernas.
-
-- Criar, testar e evoluir agentes de IA e fluxos de orquestração.
-
-- Integrar LLMs e construir soluções com agentes, ferramentas e RAG (Retrieval-Augmented Generation).
-
-- Utilizar ferramentas como Claude Code e Cursor para acelerar o desenvolvimento.
-
-- Colaborar na melhoria contínua dos processos de desenvolvimento assistido por IA.
-
-- Participar de code reviews e contribuir para a evolução técnica do produto.
+Arquitetura e Desenvolvimento: Projetar e implementar microsserviços escaláveis utilizando NestJS.
+Infraestrutura Cloud: Otimizar e gerenciar recursos na AWS, garantindo segurança e alta disponibilidade.
+Mentoria: Apoiar o desenvolvimento técnico de engenheiros Plenos e Juniores através de code reviews e pair programming.
+Decisões Estratégicas: Colaborar com o time de produto para transformar necessidades de negócio em soluções técnicas viáveis e robustas.
 
 
+Requisitos 
 
-Requisitos
-
-- Experiência sólida em desenvolvimento fullstack (frontend + backend + banco de dados).
-
-- Domínio de pelo menos uma linguagem moderna (JavaScript, TypeScript ou Python).
-
-- Experiência com frameworks frontend (React, Vue.js ou Next.js) e backend (Node.js, Django ou similares).
-
-- Conhecimento prático em APIs REST, versionamento com Git e bancos de dados SQL e NoSQL.
-
-- Experiência com LLMs, APIs de IA, agentes, ferramentas ou RAG.
-
-- Capacidade de aprender rapidamente novas tecnologias.
-
-- Boa comunicação, autonomia e trabalho em equipe.
-
+Mínimo de +5 anos de experiência sólida em Desenvolvimento de software com NodeJs
+Domínio avançado de Node.js com framework NestJS.
+Experiência sólida em ecossistema AWS (Lambda, RDS, S3, SQS, etc.).
+Forte conhecimento em bancos de dados relacionais e modelagem de dados financeiros.
+Experiência com arquitetura de microsserviços e mensageria.
+Práticas de testes automatizados (Unit, Integration, E2E).
 
 
 Diferenciais
 
-- Experiência com Claude Code, Cursor ou ferramentas similares de desenvolvimento assistido por IA.
-
-- Conhecimento em Docker, cloud (AWS, GCP ou Azure) e CI/CD.
-
-- Vivência com metodologias ágeis (Scrum, Kanban).
-
-- Projetos open source ou participação em hackathons.
-
-
-
-Modelo de trabalho
-
-- Híbrido, com atuação presencial em Extrema (MG) em parte da semana e remoto nos demais dias.
-
-
-
-Se você quer atuar em um ambiente acelerado, com autonomia e impacto direto no negócio, essa vaga é para você.
+Experiência aplicando IA/LLMs em produtos (APIs de IA, RAG, agentes).
+Experiência com Apache NiFi ou outras ferramentas de orquestração de dados..
+Conhecimento de Snowflake ou data warehouses.
+Experiência com Retool ou low-code para ferramentas internas.
+Práticas de DevSecOps e IaC (Terraform).
+Experiência em startups/scale-ups com alto volume de integrações.
