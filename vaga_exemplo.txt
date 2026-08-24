@@ -1,0 +1,57 @@
+Estamos em busca de um(a) Desenvolvedor(a) Fullstack Pleno com foco em Inteligência Artificial para atuar no time de tecnologia. Você vai construir e evoluir plataformas web e soluções inteligentes que otimizam a logística e a experiência do cliente.
+
+
+
+Responsabilidades
+
+- Desenvolver e manter aplicações fullstack (frontend, backend e banco de dados) com tecnologias modernas.
+
+- Criar, testar e evoluir agentes de IA e fluxos de orquestração.
+
+- Integrar LLMs e construir soluções com agentes, ferramentas e RAG (Retrieval-Augmented Generation).
+
+- Utilizar ferramentas como Claude Code e Cursor para acelerar o desenvolvimento.
+
+- Colaborar na melhoria contínua dos processos de desenvolvimento assistido por IA.
+
+- Participar de code reviews e contribuir para a evolução técnica do produto.
+
+
+
+Requisitos
+
+- Experiência sólida em desenvolvimento fullstack (frontend + backend + banco de dados).
+
+- Domínio de pelo menos uma linguagem moderna (JavaScript, TypeScript ou Python).
+
+- Experiência com frameworks frontend (React, Vue.js ou Next.js) e backend (Node.js, Django ou similares).
+
+- Conhecimento prático em APIs REST, versionamento com Git e bancos de dados SQL e NoSQL.
+
+- Experiência com LLMs, APIs de IA, agentes, ferramentas ou RAG.
+
+- Capacidade de aprender rapidamente novas tecnologias.
+
+- Boa comunicação, autonomia e trabalho em equipe.
+
+
+
+Diferenciais
+
+- Experiência com Claude Code, Cursor ou ferramentas similares de desenvolvimento assistido por IA.
+
+- Conhecimento em Docker, cloud (AWS, GCP ou Azure) e CI/CD.
+
+- Vivência com metodologias ágeis (Scrum, Kanban).
+
+- Projetos open source ou participação em hackathons.
+
+
+
+Modelo de trabalho
+
+- Híbrido, com atuação presencial em Extrema (MG) em parte da semana e remoto nos demais dias.
+
+
+
+Se você quer atuar em um ambiente acelerado, com autonomia e impacto direto no negócio, essa vaga é para você.

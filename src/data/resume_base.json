@@ -1,0 +1,101 @@
+{
+  "nome": "Kevin Lopes",
+  "titulo": "Desenvolvedor Full Stack / Backend Engineer",
+  "contato": {
+    "cidade": "Bauru - São Paulo",
+    "telefone": "(14) 99792-2151",
+    "email": "kevinlopesdemorais@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kevin-lopes-fullstack/",
+    "github": "https://github.com/KevinLopes23"
+  },
+  "resumoProfissional": "Desenvolvedor Full Stack focado em Backend e bacharel em Ciência da Computação. Especialista no desenvolvimento de APIs RESTful escaláveis, microsserviços e integração de dados com Node.js, NestJS, TypeScript, PostgreSQL e Oracle. Experiência na otimização de performance de banco de dados, conteinerização com Docker e Kubernetes, e garantia de qualidade via testes automatizados (Jest e Cypress). Foco na aplicação de Clean Code, princípios SOLID e arquiteturas robustas para geração de valor de negócio.",
+  "principaisCompetencias": {
+    "hardSkills": [
+      "Desenvolvimento de APIs RESTful",
+      "Arquitetura de Sistemas Escaláveis",
+      "Otimização e Tuning de SQL / Banco de Dados",
+      "Testes Automatizados (Unitários, E2E e Carga)",
+      "Clean Code & Princípios SOLID",
+      "Programação Orientada a Objetos (POO)",
+      "Conteinerização e Orquestração",
+      "Revisão de Código (Code Review) & CI/CD",
+      "Metodologias Ágeis (Scrum)"
+    ],
+    "sistemasFerramentas": [
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "NestJS",
+      "Express",
+      "PostgreSQL",
+      "Oracle",
+      "SQL",
+      "Vue.js",
+      "React",
+      "Angular",
+      "Docker",
+      "Kubernetes",
+      "Jest",
+      "Cypress",
+      "JMeter",
+      "Git / GitHub",
+      "Python",
+      "C#",
+      "PHP",
+      "Jira"
+    ],
+    "softSkillsIdiomas": [
+      "Inglês Avançado",
+      "Português Nativo",
+      "Comunicação Técnica Eficiente",
+      "Trabalho em Equipe",
+      "Resolução de Problemas Complexos",
+      "Proatividade & Aprendizado Rápido"
+    ]
+  },
+  "experienciaProfissional": [
+    {
+      "cargo": "Desenvolvedor Full Stack - Pleno",
+      "periodo": "Janeiro/2026 – Atual",
+      "empresa": "Noah Omni",
+      "atividades": [
+        "Arquitetura e manutenção de APIs RESTful utilizando Node.js, NestJS e TypeScript, garantindo estabilidade e disponibilidade das aplicações.",
+        "Desenvolvimento de interfaces reativas em Vue.js e TypeScript para otimização de desempenho e usabilidade no frontend.",
+        "Gerenciamento de conteinerização e orquestração de microsserviços via Docker e Kubernetes para padronização dos ambientes de deploy.",
+        "Implementação de rotinas de testes e realização de revisões de código (code review) para mitigação de falhas em produção e manutenção de boas práticas.",
+        "Atuação em ritos ágeis (Scrum), colaborando no planejamento, estimativas e entregas contínuas de funcionalidades da equipe."
+      ]
+    },
+    {
+      "cargo": "Desenvolvedor Full Stack - Junior",
+      "periodo": "Fevereiro/2025 – Janeiro/2026",
+      "empresa": "SERVIMED Comercial LTDA",
+      "atividades": [
+        "Desenvolvimento e manutenção de APIs RESTful em Node.js, Express e TypeScript para suporte a sistemas de gestão em saúde.",
+        "Otimização de consultas SQL e estruturação de índices no PostgreSQL para redução do tempo de resposta das requisições.",
+        "Implementação de testes unitários com Jest e testes ponta a ponta (E2E) com Cypress para garantia de qualidade e confiabilidade de código.",
+        "Execução de testes de carga com JMeter para validação da estabilidade dos sistemas sob elevado fluxo de requisições.",
+        "Integração de aplicações frontend desenvolvidas em Angular e React com o backend, além de manutenção evolutiva em sistemas legados em PHP."
+      ]
+    },
+    {
+      "cargo": "Estagiário de Desenvolvimento de Software",
+      "periodo": "Agosto/2024 – Janeiro/2025",
+      "empresa": "Confiança Supermercados",
+      "atividades": [
+        "Desenvolvimento de rotinas e serviços backend utilizando C# e Python para processamento estruturado de transações.",
+        "Criação de interfaces web responsivas em React e TypeScript focadas na navegação e usabilidade de dispositivos móveis.",
+        "Construção e otimização de consultas em banco de dados Oracle para emissão de relatórios e integração entre unidades via APIs REST."
+      ]
+    }
+  ],
+  "formacaoAcademica": [
+    "Bacharelado em Ciência da Computação | UNISAGRADO-2025",
+    "Programa de Língua Inglesa | ISE Ireland (Dublin, Irlanda)-Em andamento"
+  ],
+  "certificacoes": [
+    "Versionamento de Código com Git e GitHub",
+    "JavaScript & Lógica de Programação",
+    "Formação FullStack - RocketSeat"
+  ]
+}

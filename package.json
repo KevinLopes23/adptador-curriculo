@@ -1,0 +1,27 @@
+{
+  "name": "adaptador-curriculo",
+  "version": "1.0.0",
+  "description": "CLI para adaptar currículo baseado em job descriptions usando Google Gemini AI",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/cli.ts",
+    "adaptar": "tsx src/cli.ts adaptar -j vaga_exemplo.txt",
+    "adaptar:ats": "tsx src/cli.ts adaptar -j vaga_exemplo.txt --ats",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "extract": "python scripts/extract-resume.py"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "commander": "^13.0.0",
+    "dotenv": "^16.4.0",
+    "pdfkit": "^0.16.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/pdfkit": "^0.13.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
