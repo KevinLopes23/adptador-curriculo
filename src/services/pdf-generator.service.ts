@@ -10,9 +10,22 @@ const MARGIN = 50;
 const PAGE_WIDTH = 595.28; // A4
 const CONTENT_WIDTH = PAGE_WIDTH - MARGIN * 2;
 
+// ── Tipo de Paleta de Cores ──────────────────────────────────────────────────
+
+interface ColorPalette {
+  black: string;
+  darkGray: string;
+  mediumGray: string;
+  lightGray: string;
+  lineGray: string;
+  headerBg: string;
+  headerText: string;
+  accent: string;
+}
+
 // ── Paleta Visual (modo bonito) ──────────────────────────────────────────────
 
-const VISUAL_COLORS = {
+const VISUAL_COLORS: ColorPalette = {
   black: '#000000',
   darkGray: '#333333',
   mediumGray: '#555555',
@@ -21,11 +34,11 @@ const VISUAL_COLORS = {
   headerBg: '#1a1a2e',
   headerText: '#FFFFFF',
   accent: '#0f3460',
-} as const;
+};
 
 // ── Paleta ATS (alto contraste, sem backgrounds) ─────────────────────────────
 
-const ATS_COLORS = {
+const ATS_COLORS: ColorPalette = {
   black: '#000000',
   darkGray: '#000000',
   mediumGray: '#222222',
@@ -34,7 +47,7 @@ const ATS_COLORS = {
   headerBg: '#FFFFFF',
   headerText: '#000000',
   accent: '#000000',
-} as const;
+};
 
 const FONTS = {
   title: 'Helvetica-Bold',
@@ -44,7 +57,6 @@ const FONTS = {
   bodyBold: 'Helvetica-Bold',
 } as const;
 
-type ColorPalette = typeof VISUAL_COLORS;
 
 // ── Service ──────────────────────────────────────────────────────────────────
 

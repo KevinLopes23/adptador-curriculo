@@ -55,6 +55,20 @@ npm run adaptar
 npx tsx src/cli.ts adaptar -j minha_vaga.txt -o output/curriculo_empresa_x.pdf
 ```
 
+### Modo ATS (otimizado para sistemas de recrutamento)
+
+Gera um PDF limpo, sem cores decorativas, com alto contraste — ideal para passar por filtros automáticos de ATS:
+
+```bash
+# Via script npm
+npm run adaptar:ats
+
+# Ou com flags
+npx tsx src/cli.ts adaptar -j minha_vaga.txt --ats
+```
+
+> **Visual vs ATS**: O modo padrão gera um PDF bonito com header escuro e cores. O modo `--ats` gera tudo em preto sobre branco, sem backgrounds, sem caracteres unicode — maximizando a leitura por parsers automáticos.
+
 ### Modo interativo
 
 Execute sem a flag `-j` e cole a descrição da vaga direto no terminal:
@@ -70,6 +84,7 @@ npx tsx src/cli.ts adaptar
 |------|-----------|---------|
 | `-j, --job <path>` | Caminho para arquivo `.txt` com a job description | Modo interativo |
 | `-o, --output <path>` | Caminho do PDF de saída | `./output/curriculo_adaptado.pdf` |
+| `--ats` | Gera PDF otimizado para ATS (sem cores, alto contraste) | `false` |
 
 ## 📁 Estrutura do Projeto
 
@@ -141,6 +156,7 @@ Se qualquer violação for detectada, a adaptação é rejeitada com mensagem de
 | Script | Comando | Descrição |
 |--------|---------|-----------|
 | `adaptar` | `npm run adaptar` | Adapta currículo usando `vaga_exemplo.txt` |
+| `adaptar:ats` | `npm run adaptar:ats` | Idem, mas gera PDF otimizado para ATS |
 | `start` | `npm start` | Executa a CLI |
 | `extract` | `npm run extract` | Re-extrai dados do PDF (requer Python + PyMuPDF) |
 | `typecheck` | `npm run typecheck` | Verifica tipagem TypeScript |
